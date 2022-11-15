@@ -1,7 +1,8 @@
 Paper title:
 Evaluation of the proposed CNN model to classify the MNIST handwritten dataset
 
-1st draft link: https://github.com/rashik07/cse713/blob/main/submission_4/acl_1.pdf
+
+1st draft link: https://drive.google.com/file/d/14SiJZQvWGNYXpj0aP4CWIjW80s3GPcR2/view?usp=sharing
 
 Group Number:
 21
