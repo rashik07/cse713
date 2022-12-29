@@ -1,15 +1,8 @@
-Unlisted youtube video:
-https://youtu.be/xRt6j95HC44
-
 Paper title:
 Evaluation of the proposed CNN model to classify the MNIST handwritten dataset
 
-paper submission:
-https://github.com/rashik07/cse713/blob/main/submission_4%20-%20full%20paper/Final%20(1).pdf
 
-
-Paper presentation (anyone can view without login):
-https://drive.google.com/file/d/1aKujAqNzjZKt-qqe6_FWK0bK5kmrkDJW/view?usp=sharing
+1st draft link: https://drive.google.com/file/d/14SiJZQvWGNYXpj0aP4CWIjW80s3GPcR2/view?usp=sharing
 
 Group Number:
 21
