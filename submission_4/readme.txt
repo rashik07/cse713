@@ -9,7 +9,7 @@ https://github.com/rashik07/cse713/blob/main/submission_4%20-%20full%20paper/Fin
 
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1ilIDVtcVrAG9iWPy2f2X8Z-2zVS8ryQz5PKFE2EzJLg/edit?usp=sharing
+https://drive.google.com/file/d/1aKujAqNzjZKt-qqe6_FWK0bK5kmrkDJW/view?usp=sharing
 
 Group Number:
 21
