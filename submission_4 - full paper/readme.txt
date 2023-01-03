@@ -12,6 +12,19 @@ https://github.com/rashik07/cse713/blob/main/submission_4%20-%20full%20paper/Fin
 Paper presentation (anyone can view without login):
 https://drive.google.com/file/d/1aKujAqNzjZKt-qqe6_FWK0bK5kmrkDJW/view?usp=sharing
 
+Paper submission date (to workshop/conference):
+10 December 2022
+
+Paper submission ID: (received) from conference/workshop
+1570876055
+
+
+Conference Name:
+2023 International Joint Conference on Neural Networks (IJCNN) - Neural Networks Models
+
+Conference URL:
+https://2023.ijcnn.org/
+
 Group Number:
 21
 
